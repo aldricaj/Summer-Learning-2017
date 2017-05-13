@@ -8,10 +8,10 @@
   * Create a set process for deployments from git and testing with minimal interation
 ### Specifics of the above
 1. I will be using a MEAN stack because it will be fun and different
-  * MongoDB
-  * Express
-  * Angular
-  * NodeJS
+ * MongoDB
+ * Express
+ * Angular
+ * NodeJS
 2. I will have to figure this out as I go, I think this might be a stretch to finish before end of summer
 3. This will be a part of learning the stack. I will continue to update my methodology as I go on
 
